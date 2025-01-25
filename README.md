@@ -57,7 +57,7 @@ HeartDiseaseModel leverages the **Heart Disease UCI Dataset** to predict the pre
 
 The **HeartDiseaseModel** features a clean and user-friendly interface that allows users to input their data and receive real-time predictions. Below is a screenshot of the project interface:
 
-![Project Interface](./path/to/your/image.jpg)
+![Project Interface](User_Interface.jpeg)
 
 ---
 

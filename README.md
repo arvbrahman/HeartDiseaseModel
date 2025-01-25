@@ -8,13 +8,13 @@ A machine learning-based project that predicts the likelihood of heart disease u
 
 ## Table of Contents
 
-- [Introduction](#introduction) :wave:
-- [Features](#features) :star2:
-- [Workflow](#workflow)  :arrow_forward:
-- [Technologies Used](#technologies-used) :computer:
-- [Usage](#usage) :rocket:
-- [Results](#results)  :bar_chart:
-- [Contributing](#contributing) :handshake:
+- [Introduction](#introduction-wave)
+- [Features](#features-star2)
+- [Workflow](#workflow-arrow_forward)
+- [Technologies Used](#technologies-used-computer)
+- [Usage](#usage-rocket)
+- [Results](#results-bar_chart)
+- [Contributing](#contributing-handshake)
 
 ---
 

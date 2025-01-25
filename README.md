@@ -12,6 +12,7 @@ A machine learning-based project that predicts the likelihood of heart disease u
 - [Features](#features-star2)
 - [Workflow](#workflow-arrow_forward)
 - [Technologies Used](#technologies-used-computer)
+- [Project Interface](#project-interface-frame_with_picture)
 - [Usage](#usage-rocket)
 - [Results](#results-bar_chart)
 - [Contributing](#contributing-handshake)
@@ -49,6 +50,14 @@ HeartDiseaseModel leverages the **Heart Disease UCI Dataset** to predict the pre
 - **scikit-learn**: Logistic regression model.  
 - **Joblib**: Model saving/loading.  
 - **Seaborn/Matplotlib**: Data visualization during development.
+
+---
+
+## Project Interface :frame_with_picture:
+
+The **HeartDiseaseModel** features a clean and user-friendly interface that allows users to input their data and receive real-time predictions. Below is a screenshot of the project interface:
+
+![Project Interface](./path/to/your/image.jpg)
 
 ---
 
